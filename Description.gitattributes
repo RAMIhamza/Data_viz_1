@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+#L’algorithme qu’on veut concevoir doit être capable de prendre comme 
+#entrée une base de données dynamique contenant le taux de précarité, 
+#ainsi un fichier GeoJSON contenant les limites administratives pour chaque région
+#et affiche ensuite la carte colorée avec les différents niveaux attribués à chaque région. 
